@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name         = "jetfire_bealex"
+  s.name         = "jetfire"
   s.version      = "0.1.5"
   s.summary      = "WebSocket (RFC 6455) client library for iOS & OS X."
   s.homepage     = "https://github.com/acmacalister/jetfire"
